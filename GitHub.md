@@ -1,8 +1,7 @@
 Github
 ====
 <br>
-![1](github/1.png)
-![1](oracle/1.jpg)
+ ![1](github/1.png)
 <br>
 ![2](github/2.png)
 <br>
