@@ -1,6 +1,5 @@
 Plsql
 =====
-<br>
 ![1](plsql/1.jpg)
 <br>
 ![2](plsql/2.png)
