@@ -2,7 +2,7 @@ VMWARE
 ====
 First: You need copy windows10.64zip
 ---
-<br>
+
 ![1](vmware/1.png)
 <br>
 ![2](vmware/2.png)
