@@ -1,8 +1,6 @@
 Github
 ====
-<br>
- ![1](github/1.png)
-<br>
+![1](github/1.png)
 ![2](github/2.png)
 <br>
 ![3](github/3.png)
