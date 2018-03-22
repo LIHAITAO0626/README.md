@@ -1,9 +1,9 @@
 Github
 ====
 #1
-![](GITHUB/1.PNG)
+![](Github/1.PNG)
 #2
-![](GITHUB/2.PNG)
+![](Github/2.PNG)
 #3
 ![](GITHUB/3.PNG)
 #4
