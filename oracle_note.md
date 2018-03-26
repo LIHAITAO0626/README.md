@@ -30,7 +30,7 @@ sql语句:
 	*drop table 表名;
 #去重:
 	*select distinct 列名1,列名..from 表名,表名 where 条件
-
+![6](oracle_note/6.png)<br>
 
 #关系运算:
 >=,!=,<,>,<=,>=  :比较两个表达式的大小<br>
@@ -40,6 +40,7 @@ sql语句:
 >and,or 条件1 and 条件2,条件1 or 条件2:两个条件的连接<br>
 >not 条件取反<br>
 >is null 判断表达式是否为空<br>
+![7](oracle_note/7.png)<br>
 #分组函数:
 		Count返回找到的记录数
 		Min返回一个数字列或是计算列的最小值
