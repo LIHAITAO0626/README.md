@@ -7,7 +7,7 @@ sql语句:
 改:delete from 表名 where 列名称='数据'<br>
 --
 查:select 列名,列名,... from 表名,表名 where 条件<br>
-或select into 表名(数据,数据)
+或select into 表名(数据,数据)<br>
 --
 <br>
 #常用数据类型:
@@ -65,4 +65,5 @@ select 列 from 表1 inner(可省略) join 表2 on 连接条件;<br>
 ![3](oracle_note/3.png)<br><br>
 子查询一般出现在where子句中，包含子查询的语句通常采用图中所列格式中的一种<br>
 ![4](oracle_note/4.png)<br><br>
+
 ![5](oracle_note/5.png)<br><br>
