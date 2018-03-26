@@ -7,7 +7,7 @@ sql语句:
 改:delete from 表名 where 列名称='数据'<br>
 --
 查:select 列名,列名,... from 表名,表名 where 条件<br>
-或select into 表名(数据,数据)
+或select into 表名(数据,数据)<br>
 --
 <br>
 #常用数据类型:
@@ -41,11 +41,11 @@ sql语句:
 >not 条件取反<br>
 >is null 判断表达式是否为空<br>
 #分组函数:
-		Count返回找到的记录数
-		Min返回一个数字列或是计算列的最小值
-		Max返回一个数字列或是计算列的最大值
-		Sum返回一个数字列或是计算列的总和
-		Avg返回一个数字列或是计算列的平均值
+		Count返回找到的记录数<br>
+		Min返回一个数字列或是计算列的最小值<br>
+		Max返回一个数字列或是计算列的最大值<br>
+		Sum返回一个数字列或是计算列的总和<br>
+		Avg返回一个数字列或是计算列的平均值<br>
 
 #!:
 >先where 条件(列名='') 再分组 (group by) 列名 在筛选 (having 列名='')<br>
@@ -58,10 +58,10 @@ select 列 from 表1 inner(可省略) join 表2 on 连接条件;<br>
 左外:select 列 from 表1 left join 表2 on 链接条件;<br>
 全外:select 列 from 表1 full join 表2 on 连接条件;<br>
 ###union
-![1](oracle_note/1.png)
-![2](oracle_note/2.png)
+![1](oracle_note/1.png)<br><br>
+![2](oracle_note/2.png)<br><br>
 ###子查询
-![3](oracle_note/3.png)<br>
+![3](oracle_note/3.png)<br><br>
 子查询一般出现在where子句中，包含子查询的语句通常采用图中所列格式中的一种<br>
-![4](oracle_note/4.png)<br>
-![5](oracle_note/5.png)<br>
+![4](oracle_note/4.png)<br><br>
+![5](oracle_note/5.png)<br><br>
