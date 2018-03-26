@@ -11,25 +11,25 @@ sql语句:
 --
 <br>
 #常用数据类型:
->number:	数字 AS:SNO(156)
->> varchar/varchar2:字符串 AS:CNO('2-156')
-> date:日期<br> AS: BIRTHDAY('2017-02-02')
->>to_char:日期转换 AS:TO_CHAR(2017,'YYYY')		
+>number:	数字 AS:SNO(156)<br>
+>> varchar/varchar2:字符串 AS:CNO('2-156')<br>
+> date:日期<br> AS: BIRTHDAY('2017-02-02')<br>
+>>to_char:日期转换 AS:TO_CHAR(2017,'YYYY')	<br>	
 <br>
 
 #建表语句格式:
-	*create table =表名(列名varchar2,列名number,列名date)values(数据,数据,数据);
+	*create table =表名(列名varchar2,列名number,列名date)values(数据,数据,数据);<br>
 <br>
 #增加列:
-	*alter table 表名 add (column definitionl,column definitionl);
+	*alter table 表名 add (column definitionl,column definitionl);<br>
 #更改现有列格式:
-	*alter table 表名 modify (colmun_name1 newdefinition,column newdefinition2);
+	*alter table 表名 modify (colmun_name1 newdefinition,column newdefinition2);<br><br>
 #删除列:
-	*alter table 表名 drop (column_name1,column);
+	*alter table 表名 drop (column_name1,column);<br>
 #删除表:
-	*drop table 表名;
+	*drop table 表名;<br>
 #去重:
-	*select distinct 列名1,列名..from 表名,表名 where 条件
+	*select distinct 列名1,列名..from 表名,表名 where 条件<br>
 
 
 #关系运算:
