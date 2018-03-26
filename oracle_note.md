@@ -30,7 +30,7 @@ sql语句:
 	*drop table 表名;<br>
 #去重:
 	*select distinct 列名1,列名..from 表名,表名 where 条件<br>
-
+![6](oracle_note/6.png)<br><br>
 
 #关系运算:
 >=,!=,<,>,<=,>=  :比较两个表达式的大小<br>
