@@ -46,7 +46,7 @@ sql语句:
 		Max返回一个数字列或是计算列的最大值<br>
 		Sum返回一个数字列或是计算列的总和<br>
 		Avg返回一个数字列或是计算列的平均值<br>
-
+![7](oracle_note/7.png)<br><br>
 #!:
 >先where 条件(列名='') 再分组 (group by) 列名 在筛选 (having 列名='')<br>
 >having子句通常和group by+组一起使用，用来限制搜索条件。having子句与组有关，不与单个值有关，它作用于group by的组:<br>select 列名,列名,... from 表名 group by 组名 having 组限制条件<br>
